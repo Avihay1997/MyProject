@@ -8,4 +8,6 @@ help you to find what you need in across the web
 ## Installation
 go to you store in the phone and download it, you will need username and password
 
-##have fun! :)
+have fun! :)
+
+thank you evyatar for support me! 
